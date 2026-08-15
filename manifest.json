@@ -1,0 +1,12 @@
+{
+  "name": "金属熱処理 2級 1問1答",
+  "short_name": "熱処理2級",
+  "description": "金属熱処理（一般熱処理作業）2級 令和5～7年度 過去問学習アプリ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F4F1",
+  "theme_color": "#7A2E1F",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
